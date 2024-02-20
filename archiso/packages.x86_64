@@ -989,6 +989,7 @@ ast-firmware
 ## chaotics-aur
 #flat-remix
 
+appmenu-gtk-module
 btop
 cpuid
 dropbox
