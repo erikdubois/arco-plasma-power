@@ -1,21 +1,61 @@
-<h1 align="center">
+<p align="center">
  <img src="https://github.com/erikdubois/arcolinux-nemesis/blob/master/Personal/settings/arcolinuxws.png">
-  <br />
-   Power - rising example for Plasma
-</h1>
+</p>
 
-![Maintenance](https://img.shields.io/maintenance/yes/2024?style=for-the-badge)
-![Last-Commit](https://img.shields.io/github/last-commit/erikdubois/power?style=for-the-badge)
+# ArcoLinux BYOI Plasma desktop
 
-<a href="https://discord.gg/stBhS4taje" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/discord/1068192254365282405?logo=discord&label=discord" alt="discord"/></a>
-<a href="https://t.me/arcolinux_d_b" target="_blank" rel="noopener noreferrer"><img alt="Telegram" src="https://img.shields.io/badge/telegram-chat-blue?logo=telegram"></a>
+# Get your code to build your own iso
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/erikdubois?style=flat">&nbsp;&nbsp;<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/erikdubois/power">&nbsp;&nbsp;<img alt="GitHub forks" src="https://img.shields.io/github/forks/erikdubois/power">
+	git clone https://github.com/arcolinuxb/arco-plasma
 
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCJdmdUp5BrsWsYVQUylCMLg">&nbsp;&nbsp;<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCJdmdUp5BrsWsYVQUylCMLg">
+# Follow building and installation tutorials on
 
-<img alt="AUR Last Modified" src="https://img.shields.io/aur/last-modified/archlinux-tweak-tool-git?label=AUR%20-%20ArchLinux-Tweak-Tool%20or%20ATT">
+https://arcolinuxb.com
 
-Example how you can rise Plasma.
-Save the files.
-Package the files.
+# Websites
+
+Information about ArcoLinux : https://arcolinux.info
+
+Tutorials about Linux : https://arcolinux.com
+
+Tutorials about ArcoLinuxD iso (D=desktop - any desktop) : https://arcolinuxd.com
+
+Tutorials how to build your own iso on ArcoLinux iso : https://arcolinuxb.com
+
+Tutorials how to build your iso from scratch : https://arcolinuxiso.com
+
+Alci - Arch Linux and the Calamares installer : https://alci.online
+
+Ariser - Pure arch - installed with scripts : https://ariser.eu
+
+Forum : https://arcolinuxforum.com
+
+# Social Media
+
+Facebook : https://www.facebook.com/arcolinuxd/
+
+Facebook : https://www.facebook.com/groups/arcolinux/
+
+Flickr   : https://www.flickr.com/photos/arcolinux/
+
+Twitter  : https://twitter.com/arcolinux
+
+Instagram: https://www.instagram.com/arcolinux/
+
+Linked in: https://www.linkedin.com/in/arcolinux
+
+Youtube  : https://www.youtube.com/erikdubois
+
+Mastodon Page : https://mastodon.social/@arcolinux
+
+Mewe Group : https://mewe.com/group/5bbc4577a40f3002b313671d
+
+Mewe ArcoLinux : https://mewe.com/profile/5bc022ac70fb13619f97af90
+
+Matrix:
+
+https://matrix.to/#/#official-arcolinux-news:matrix.org
+
+https://matrix.to/#/#official-arcolinux-general-support:matrix.org
+
+https://matrix.to/#/!jUDkosOsuDbGWNzKYl:matrix.org?via=matrix.org&via=envs.net&via=privacytools.io
